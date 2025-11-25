@@ -1,81 +1,72 @@
-👋 Hola, soy Florencia Bustos
+J. Florencia Bustos / LÉAME .md
 
-Soy Full Stack Developer con enfoque en Front-End, apasionada por crear interfaces modernas, intuitivas y visualmente atractivas.
-Me encanta combinar diseño, funcionalidad y buenas prácticas para construir experiencias digitales claras, fluidas y pensadas para el usuario.
+👋 *Hola, soy Florencia Bustos*
 
-🧠 Sobre mí
+Soy *Full Stack Developer* con enfoque en *Front-End*, apasionada por crear interfaces modernas, intuitivas y visualmente atractivas. Me encanta combinar diseño, funcionalidad y buenas prácticas para construir experiencias digitales claras, fluidas y pensadas para el usuario.
 
-🎯 Detallista y ordenada: cuido la estética y la estructura de cada proyecto
+---
 
-📚 Aprendiz constante: siempre explorando nuevas tecnologías
+🔗 🧠 *Sobre mí*
 
-🧭 Comprometida: foco en cumplir objetivos y mejorar cada entrega
+* 🎯 *Detallista y ordenada:* cuido la estética y la estructura de cada proyecto
+* 📚 *Aprendiz constante:* siempre explorando nuevas tecnologías
+* 🧭 *Comprometida:* foco en cumplir objetivos y mejorar cada entrega
+* 🔍 *Resolutiva:* disfruto encontrar soluciones prácticas y eficientes
+* 💡 *Creativa:* diseño interfaces que se vean bien y funcionen mejor
 
-🔍 Resolutiva: disfruto encontrar soluciones prácticas y eficientes
+---
 
-💡 Creativa: diseño interfaces que se vean bien y funcionen mejor
+🔗 🚀 *Tecnologías y herramientas*
 
-🚀 Tecnologías y herramientas
-🖥 Frontend
+### 🖥 Frontend
 
-HTML5, CSS3, JavaScript, TypeScript
+* HTML5, CSS3, JavaScript, TypeScript
+* React, Next.js
+* Tailwind CSS, CSS Modules
+* Diseño responsivo y experiencia de usuario
 
-React, Next.js
+### ⚙ Backend
 
-Tailwind CSS, CSS Modules
+* Node.js, Express.js
+* Servicios, controladores, middlewares
+* Consumir y gestionar APIs
 
-Diseño responsivo y experiencia de usuario
+### 🗄 Bases de datos
 
-⚙ Backend
+* PostgreSQL (básico)
+* MongoDB (básico)
 
-Node.js, Express.js
+### 🔧 Otras herramientas
 
-Servicios, controladores, middlewares
+* Git, GitHub
+* Axios
+* Postman
+* Vercel
 
-Consumir y gestionar APIs
+---
 
-🗄 Bases de datos
+🔗 🎯 *Objetivos actuales*
 
-PostgreSQL (básico)
+* Mejorar la calidad visual y funcional de cada interfaz
+* Crear proyectos escalables con buenas prácticas
+* Dominar TypeScript y herramientas del ecosistema React/Next.js
+* Seguir fortaleciendo conocimientos en backend
 
-MongoDB (básico)
+---
 
-🔧 Otras herramientas
+🔗 📚 *Intereses*
 
-Git, GitHub
+* Front-End y diseño de interfaces
+* UX / UI
+* Tecnología
+* Paginas web y proyectos creativos
+* Desarrollo de apps
 
-Axios
+---
 
-Postman
+🔗 📫 *Contacto*
 
-Vercel
-
-🎯 Objetivos actuales
-
-Mejorar la calidad visual y funcional de cada interfaz
-
-Crear proyectos escalables con buenas prácticas
-
-Dominar TypeScript y herramientas del ecosistema React/Next.js
-
-Seguir fortaleciendo conocimientos en backend
-
-📚 Intereses
-
-Front-End y diseño de interfaces
-
-UX / UI
-
-Tecnología
-
-Paginas web y proyectos creativos
-
-Desarrollo de apps
-
-📫 Contacto
-
-📧 florenciabustosaldana@gmail.com
-
-💼 www.linkedin.com/in/florencia-bustos-a31b22354
+* 📧 florenciabustosaldana@gmail.com
+* 💼 www.linkedin.com/in/florencia-bustos-a31b22354
 
 ¡Gracias por visitar mi perfil! 🚀
