@@ -66,6 +66,7 @@ Soy *Full Stack Developer* con enfoque en *Front-End*, apasionada por crear inte
 
 🔗 📫 *Contacto*
 
+* 📍 Loja, España
 * 📧 florenciabustosaldana@gmail.com
 * 💼 www.linkedin.com/in/florencia-bustos-a31b22354
 
